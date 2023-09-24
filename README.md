@@ -1,1 +1,2 @@
 # Analytics-Dashboard
+Understanding and minimising attrition is essential for every organization's success in the dynamic business environment of today. This project focuses on creating an effective Analytics Dashboard with Microsoft Power BI to obtain actionable insights about employee turnover. This user-friendly and thorough dashboard provides a holistic perspective of attrition rates throughout our company, enabling HR specialists, managers, and executives to make data-driven decisions and put employee retention initiatives into action.
